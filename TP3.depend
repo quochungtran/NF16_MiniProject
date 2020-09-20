@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1572947682 source:c:\users\mac\desktop\nf16\tp3\tp3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"tp3.h"
+
+1572949752 c:\users\mac\desktop\nf16\tp3\tp3.h
+	<time.h>
+
